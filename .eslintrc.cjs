@@ -15,7 +15,6 @@ const config = {
         "@typescript-eslint/no-unsafe-return": "off",
         "@typescript-eslint/no-unsafe-assignment": "off",
         "@typescript-eslint/restrict-plus-operands": "off",
-        "@typescript-eslint/restrict-template-expressions": "error",
         "@typescript-eslint/no-non-null-assertion": "off",
       },
       files: ["*.ts", "*.tsx"],
